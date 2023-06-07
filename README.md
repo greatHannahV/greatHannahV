@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
 ###
-I'm Hanna a Junior Frontend Developer who loves creating beautiful and interactive web experiences.
+# I'm Hanna a Junior Frontend Developer who loves creating beautiful and interactive web experiences.
 ###
 
   ![6c90288d7e10d46d18895f17f420a92c](https://github.com/greatHannahV/greatHannahV/assets/96841662/069f2a70-a7ed-49c1-bdb9-d1ce212d4306)
