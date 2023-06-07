@@ -12,11 +12,6 @@ I'm Hanna a Junior Frontend Developer who loves creating beautiful and interacti
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/html5.svg" alt="HTML5" width="50" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/css3.svg" alt="CSS3" width="50" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/javascript.svg" alt="JavaScript" width="50" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/sass.svg" alt="SASS/SCSS" width="50" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/git.svg" alt="Git" width="50" />
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatHannahV)](https://github.com/anuraghazra/github-readme-stats)
 
-https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif
-
-
-
-
+![cat-computer](https://github.com/greatHannahV/greatHannahV/assets/96841662/8c924a8e-a74a-4187-ba01-ad4209841268)
