@@ -14,6 +14,5 @@ I'm Hanna a Junior Frontend Developer who loves creating beautiful and interacti
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatHannahV)](https://github.com/anuraghazra/github-readme-stats)
 
-![cat-computer](https://github.com/greatHannahV/greatHannahV/assets/96841662/8c924a8e-a74a-4187-ba01-ad4209841268
 
-
+![6c90288d7e10d46d18895f17f420a92c](https://github.com/greatHannahV/greatHannahV/assets/96841662/cb69e66c-b549-4acc-880c-47260e5f9b52)
