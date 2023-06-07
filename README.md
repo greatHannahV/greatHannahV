@@ -1,7 +1,8 @@
 ## Hello there! 👋
 
 I'm Hanna a Junior Frontend Developer who loves creating beautiful and interactive web experiences.
-![cat-computer](https://github.com/greatHannahV/greatHannahV/assets/96841662/8c924a8e-a74a-4187-ba01-ad4209841268)
+
+![cat-computer](https://github.com/greatHannahV/greatHannahV/assets/96841662/8c924a8e-a74a-4187-ba01-ad4209841268  width="250" height="250")
 
 🌱 Currently, I'm focused on expanding my skills in front-end technologies and learning the latest industry trends.
 
