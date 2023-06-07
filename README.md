@@ -1,4 +1,4 @@
-### Hello there! 👋
+# Hello there! 👋
 
 ###
 ## I'm Hanna a Junior Frontend Developer who loves creating beautiful and interactive web experiences.
