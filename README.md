@@ -4,8 +4,9 @@ I'm Hanna a Junior Frontend Developer who loves creating beautiful and interacti
 
 🌱 Currently, I'm focused on expanding my skills in front-end technologies and learning the latest industry trends.
 <div>
-  <div align="left>
-    ![6c90288d7e10d46d18895f17f420a92c](https://github.com/greatHannahV/greatHannahV/assets/96841662/cb69e66c-b549-4acc-880c-47260e5f9b52)</div>
+  <div align="left>![6c90288d7e10d46d18895f17f420a92c](https://github.com/greatHannahV/greatHannahV/assets/96841662/2fecd8c5-b263-4f5e-a67d-938df7f12c9d)
+
+   9e66c-b549-4acc-880c-47260e5f9b52)</div>
 <div>
 📚 I'm currently working towards obtaining a JavaScript certificate on Udemy, further expanding my knowledge and expertise in JavaScript development.
 
@@ -28,9 +29,10 @@ I'm Hanna a Junior Frontend Developer who loves creating beautiful and interacti
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ChewBaccaYeti" height="150" alt="languages graph"  />
-</div>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatHannahV)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
