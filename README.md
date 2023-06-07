@@ -1,6 +1,7 @@
 ## Hello there! 👋
 
 I'm Hanna a Junior Frontend Developer who loves creating beautiful and interactive web experiences.
+![cat-computer](https://github.com/greatHannahV/greatHannahV/assets/96841662/8c924a8e-a74a-4187-ba01-ad4209841268)
 
 🌱 Currently, I'm focused on expanding my skills in front-end technologies and learning the latest industry trends.
 
@@ -14,4 +15,3 @@ I'm Hanna a Junior Frontend Developer who loves creating beautiful and interacti
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatHannahV)](https://github.com/anuraghazra/github-readme-stats)
 
-![cat-computer](https://github.com/greatHannahV/greatHannahV/assets/96841662/8c924a8e-a74a-4187-ba01-ad4209841268)
