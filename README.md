@@ -2,7 +2,7 @@
 
 I'm Hanna a Junior Frontend Developer who loves creating beautiful and interactive web experiences.
 
-  ![6c90288d7e10d46d18895f17f420a92c](https://github.com/greatHannahV/greatHannahV/assets/96841662/069f2a70-a7ed-49c1-bdb9-d1ce212d4306)
+  <div align="center">![6c90288d7e10d46d18895f17f420a92c](https://github.com/greatHannahV/greatHannahV/assets/96841662/069f2a70-a7ed-49c1-bdb9-d1ce212d4306)</div>
 
 
 🌱 Currently, I'm focused on expanding my skills in front-end technologies and learning the latest industry trends.
@@ -30,8 +30,9 @@ I'm Hanna a Junior Frontend Developer who loves creating beautiful and interacti
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ChewBaccaYeti" height="150" alt="languages graph"  />
   <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatHannahV)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatHannahV)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
