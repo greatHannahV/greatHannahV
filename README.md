@@ -9,7 +9,7 @@
 
 🌱 Currently, I'm focused on expanding my skills in front-end technologies and learning the latest industry trends.
 
-📚 I'm currently working towards obtaining a JavaScript certificate on Udemy, further expanding my knowledge and expertise in JavaScript development.
+📚 I've recently completed a JS course and obtained a certificate on Udemy.
 
 🎯 My goal is to craft visually appealing and user-friendly web applications that provide seamless interactions and enhance user satisfaction.
 
@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linuxl.svg" height="40" width="52" alt="git logo"  />
 </div>
 
 
