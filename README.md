@@ -9,8 +9,9 @@
 
 🌱 Currently, I'm focused on expanding my skills in front-end technologies and learning the latest industry trends.
 
-📚 I've recently completed a JS course and obtained a certificate on Udemy.
-<div>https://www.udemy.com/certificate/UC-78bf2cd4-18e0-40e5-b096-e6040514a333/</div>
+📚 <div> I've recently completed a JS course and obtained a certificate on Udemy.
+https://www.udemy.com/certificate/UC-78bf2cd4-18e0-40e5-b096-e6040514a333/</div>
+
 
 
 🎯 My goal is to craft visually appealing and user-friendly web applications that provide seamless interactions and enhance user satisfaction.
