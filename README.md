@@ -9,7 +9,7 @@
 
 🌱 Currently, I'm focused on expanding my skills in front-end technologies and learning the latest industry trends.
 
-📚  I've recently completed a JS and React courses and obtained a certificate on Udemy.
+📚  I've recently completed a JS and React courses and obtained  certificates on Udemy.
 <div>https://www.udemy.com/certificate/UC-78bf2cd4-18e0-40e5-b096-e6040514a333/</div>
 <div>https://www.udemy.com/certificate/UC-b74cf28b-f5af-4be4-b954-95fb427a59b6/</div>
 <br>
